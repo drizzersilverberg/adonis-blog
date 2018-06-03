@@ -27,7 +27,9 @@
     "@adonisjs/session": "^1.0.23",
     "@adonisjs/shield": "^1.0.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
   "autoload": {
     "App": "./app"
   }
